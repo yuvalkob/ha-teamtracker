@@ -1,6 +1,8 @@
 # Israeli Pemiere League (Ligat Ha'al) fork
 ## Use the following temas ids (See how-to in the configuration section)
 
+### League ID: ISR
+
 | Team | ID |
 | --- | --- |
 | Maccabi Haifa :green_heart: :white_heart:| 611 |

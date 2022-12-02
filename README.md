@@ -1,3 +1,21 @@
+# Israeli Pemiere League (Ligat Ha'al) fork
+## Use the following temas ids (See how-to in the configuration section)
+| Team | ID |
+| Maccabi Haifa :green_heart::white_heart:| 611 |
+| Maccabi Netanya | 5945 |
+| Moadon Sport Ashdod | 5269|
+| Sektzia Nes Tziona | 13072 |
+| Beitar Jerusalem | 5218 |
+| Bnei Sakhnin | 8329 |
+| Hapoel Be'er Sheva| 13083 |
+| Hapoel Hadera | 19255 |
+| Hapoel Jerusalem | 20970 |
+| Hapoel Kiryat Shmona | 8327 |
+| Hapoel Tel Aviv | 1037 |
+| Maccabi Raina | 21517 |
+| Maccabi Tel-Aviv | 524 |
+| Hapoel Haifa | 9577 | 
+
 # Real-time Sports Scores in Home Assistant
 
 This integration provides real-time scores for teams and athletes (beta) in multiple professional (NBA, NFL, NHL, MLB, MLS, and more), college (NCAA), and international (soccer, golf, tennis, racing) sports using the ESPN Scoreboard APIs, and creates a sensor with attributes for the details of the game. 

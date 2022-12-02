@@ -1,6 +1,8 @@
 # Israeli Pemiere League (Ligat Ha'al) fork
 ## Use the following temas ids (See how-to in the configuration section)
+
 | Team | ID |
+| --- | --- |
 | Maccabi Haifa :green_heart::white_heart:| 611 |
 | Maccabi Netanya | 5945 |
 | Moadon Sport Ashdod | 5269|

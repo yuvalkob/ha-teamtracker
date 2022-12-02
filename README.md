@@ -3,7 +3,7 @@
 
 | Team | ID |
 | --- | --- |
-| Maccabi Haifa :green_heart::white_heart:| 611 |
+| Maccabi Haifa :green_heart: :white_heart:| 611 |
 | Maccabi Netanya | 5945 |
 | Moadon Sport Ashdod | 5269|
 | Sektzia Nes Tziona | 13072 |
